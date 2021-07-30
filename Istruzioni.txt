@@ -1,0 +1,1 @@
+doppio click su delete.exe e il programma parte in automatico, per stoppare premere q
